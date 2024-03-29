@@ -47,6 +47,7 @@ class Header extends Component {
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
+              
               <Switch
                 checked={this.state.checked}
                 onChange={this.onThemeSwitchChange}
