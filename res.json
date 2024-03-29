@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Elysia Lopez, and I'm a CS student at Northwestern University. I enjoy working on projects across the stack, from working on front-end frameworks (React, Django), to APIs (ASP.NET), to databases (SQL, MongoDB). I enjoy coding from both a creative and an analytical aspect, and I constantly challenge myself to learn new tools and algorithms. I look forward to every opportunity to create something bigger than myself.",
+      "description": "👋 I'm Elysia Lopez, and I'm a student at Northwestern University studying Computer Science and Creative Writing. I enjoy intertwining software with storytelling, designing a project to the maximum benefit of the end user by understanding the role it plays in their story. I specialize in web development, especially using React.js (JavaScript), Django (Python), or HTML/CSS, but I have experience across the full stack, and I'm constantly learning new tools and technologies.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,109 +11,14 @@
     },
     "projects": [
       {
-        "title": "Battleships Game",
-        "description": "A full-stack project that involves a multiplayer Battleships game, hosted on a SQL database and utilizing a C# web API with a JS interface.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "https://github.com/ElysiaLopez/Battleships",
-        "technologies": [
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          },
-          {
-            "class": "devicon-microsoftsqlserver-plain",
-            "name": "Microsoft SQL Server"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "8-Puzzle Game + A* Solver",
-        "description": "Uses the C# Blazor framework; A 3x3 tile game where the player can slide tiles around to put them in order. Includes an Auto-Solve option, which uses an A* pathfinding algorithm to demonstrate the fastest way to win.",
-        "images": [
-          "images/portfolio/8-tile-game/cat.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Bit-Talk",
-        "start-date": "2018",
-        "description": "A hackathon project written in Python; A media-sharing platform for programming students to share work-based experiences with younger students. Built with Django & backed by a SQLite database.",
-        "images": [
-          "images/portfolio/bit-talk/elephant.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          }
-        ]
-      },
-      {
-        "title": "PoetryMood",
-        "start-date": "2023",
-        "description": "A web app that generates a poem using GPT-2, & classifies the mood of poem via Multinomial Naive Bayes classifier. Created UI using React. Built for the Northwestern IEEE Club yearly showcase.",
-        "images": [
-          "images/portfolio/poetry-mood/bird.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          }
-        ]
-      },
-      {
-        "title": "Pebble: Dating Site",
-        "start-date": "2023",
-        "description": "A web app intended for dating site purposes. Generates a random personality question every day that users can respond to, and then browse answers to. Built for a Valentine's-themed hackathon.",
-        "images": [
-          "images/portfolio/pebble/pebble1.png",
-          "images/portfolio/pebble/pebble2.png"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          },
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          }
-        ]
-      },
-      {
         "title": "Clowder",
         "start-date": "2023",
-        "description": "An educationally social web app that shows a live, interactive map of Northwestern students' public invitations to study groups. Uses React for UI, Elixir for responsive backend, and Firebase for authentication. Built for Northwestern Wildhacks hackathon.",
+        "description": "An educational/social web app that shows a live map of active study groups around campus. Uses React for UI, Elixir for responsive backend, and Firebase for authentication. 1st Place Winner for Northwestern Wildhacks hackathon.",
         "images": [
           "images/portfolio/clowder/clowder.png",
           "images/portfolio/clowder/clowder-vid.mp4"
         ],
-        "url": "https://dashboard.wildhacks.net/project/#7HVR",
+        "url": "https://github.com/andrlime/Wildhacks2023",
         "technologies": [
           {
             "class": "devicon-python-plain",
@@ -134,6 +39,60 @@
         ]
       },
       {
+        "title": "PoetryMood",
+        "start-date": "2023",
+        "description": "A web app that generates a poem using GPT-2, & classifies the mood of poem via Multinomial Naive Bayes classifier. Created UI using React. Built for the Northwestern IEEE Club yearly showcase.",
+        "images": [
+          "images/portfolio/poetry-mood/poetrymood.png"
+        ],
+        "url": "https://github.com/Thikkar/PoetryMood",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Pebble: Social Media Website",
+        "start-date": "2023",
+        "description": "A social media web app, inspired by BeReal. Generates a random personality question every day that users can respond to, and then browse answers to. Built for a Valentine's-themed hackathon.",
+        "images": [
+          "images/portfolio/pebble/pebble1.png",
+          "images/portfolio/pebble/pebble2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "ARM Assembly Snake Game",
+        "start-date": "2022",
+        "description": "A snake game built entirely in ARM Assembly\n",
+        "images": [
+          "images/portfolio/assembly_snake/snake.png"
+        ],
+        "url": "https://github.com/ElysiaLopez/AssemblySnakeGame",
+        "technologies": [
+          {
+            "class": "",
+            "name": "Assembly"
+          }
+        ]
+      },
+      {
         "title": "Derivative Visualizer",
         "start-date": "2022",
         "description": "An educational tool that visualizes a derivative relating to the limit of the slopes. Built using the C# Windows Forms framework.",
@@ -147,9 +106,61 @@
             "name": "C#"
           }
         ]
+      },
+      {
+        "title": "8-Puzzle Game + A* Solver",
+        "description": "Uses the C# Blazor framework; A 3x3 tile game where the player can slide tiles around to put them in order. Includes an Auto-Solve option, which uses an A* pathfinding algorithm to demonstrate the fastest way to win.",
+        "images": [
+          "images/portfolio/8-tile-game/8-tile-pic.png"
+        ],
+        "url": "https://github.com/ElysiaLopez/8TilePuzzleSolverBlazor",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Battleships Game",
+        "description": "A full-stack project that involves a multiplayer Battleships game, hosted on a SQL database and utilizing a C# web API with a JS interface.",
+        "images": [
+          "images/portfolio/battleships/battleship-g.jpeg"
+        ],
+        "url": "https://github.com/ElysiaLopez/Battleships",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-microsoftsqlserver-plain",
+            "name": "Microsoft SQL Server"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
       }
     ],
     "experience": [
+      {
+        "company": "Northwestern IEEE Club - Web Development Team",
+        "title": "Project Manager",
+        "years": "1.2024 - Present",
+        "mainTech": [
+          "React.js"
+        ],
+        "technologies": [
+          "React.js",
+          "Express.js",
+          "MongoDB",
+          "Node.js",
+          "HTML",
+          "CSS"
+        ]
+      },
       {
         "company": "Northwestern CCL Lab",
         "title": "Software Developer",
@@ -169,7 +180,7 @@
         ]
       },
       {
-        "company": "Northwestern IEEE Club",
+        "company": "Northwestern IEEE Club - Machine Learning Team",
         "title": "AI Engineer",
         "years": "1.2023 - 4.2023",
         "mainTech": [
