@@ -17,6 +17,9 @@ class About extends Component {
           <h1 style={{ color: "black" }}>
             <span>{sectionName}</span>
           </h1>
+          <br/>
+          <br/>
+          <br/>
           <div className="row center mx-auto mb-">
             <div className="col-md-3 mb-5 center">
               <div className="polaroid">
@@ -67,6 +70,9 @@ class About extends Component {
                     {about}
                     <br/>
                     <br/>
+                    Feel free to contact me at my email: elysialopez2026@u.northwestern.edu
+                    <br/>
+                    <br/>
                     <div >
                       <a href="https://drive.google.com/file/d/1zOOcmeyv108bRlPwBe-MoumUHRbx2mJa/view?usp=sharing" target="_blank">
                         <button className="resume-button">View resumé</button> 
@@ -74,6 +80,10 @@ class About extends Component {
                     </div>
                   </div>
                 </div>
+                <br/>
+                <br/>
+                <br/> 
+                <br/>
               </div>
             </div>
           </div>
