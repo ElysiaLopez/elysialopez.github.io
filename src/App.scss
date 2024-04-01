@@ -174,7 +174,7 @@ header h1 {
 	text-align: center;
 	padding: 5px 5px 0 5px;
 	margin-bottom: 20px;
-	font-size: 12px;
+	font-size: 13px;
 }
 
 .polaroid img {
@@ -434,35 +434,6 @@ footer a:focus {
 	font-size: 22px;
 }
 
-.resume-button {
-	background-color:#6abbbe;
-  border-radius: 8px;
-  border-style: none;
-  box-sizing: border-box;
-  color: #FFFFFF;
-  cursor: pointer;
-  display: inline-block;
-  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  font-weight: 500;
-  height: 40px;
-  line-height: 20px;
-  list-style: none;
-  margin: 0;
-  outline: none;
-  padding: 10px 16px;
-  position: relative;
-  text-align: center;
-  text-decoration: none;
-  transition: color 100ms;
-  vertical-align: baseline;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-	
-
-}
-.resume-button:hover,
-.resume-button:focus {
-  background-color: #5f9ea0;
+.project-rect {
+	height: 400px;
 }
