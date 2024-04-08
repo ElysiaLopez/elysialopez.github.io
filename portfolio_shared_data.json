@@ -19,6 +19,11 @@
     "skills": {
       "icons": [
         {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "65"
+        },
+        {
           "name": "C#",
           "class": "devicon-csharp-plain",
           "level": "65"

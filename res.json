@@ -13,7 +13,7 @@
       {
         "title": "Clowder",
         "start-date": "2023",
-        "description": "An educational/social web app that shows a live map of active study groups around campus. Uses React for UI, Elixir for responsive backend, and Firebase for authentication. 1st Place Winner for Northwestern Wildhacks hackathon.",
+        "description": "An educational/social web app that shows a live map of active study groups around campus. Uses React for UI, Elixir for responsive backend, and Firebase for authentication. 1st Place Winner for Northwestern Wildhacks Hackathon 2023.",
         "images": [
           "images/portfolio/clowder/clowder.png",
           "images/portfolio/clowder/clowder-vid.mp4"
@@ -35,6 +35,43 @@
           {
             "class": "devicon-firebase-plain",
             "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Heartland",
+        "start-date": "2024",
+        "description": "A unique take on wellness journaling. Built using React.js, Three.js, and Blender to render 3D components. Backend using Firebase auth and Postgres db. Best Design Award winner for Northwestern WildHacks Hackathon 2024.",
+        "images": [
+          "images/portfolio/heartland/homescreen.png",
+          "images/portfolio/heartland/add_memory.png"
+          
+        ],
+        "url": "https://heartland-17df1.web.app/home",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-threejs-original",
+            "name": "Three.js"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-azure-plain",
+            "name": "Azure"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-tailwindcss-original",
+            "name": "Tailwind CSS"
           }
         ]
       },
