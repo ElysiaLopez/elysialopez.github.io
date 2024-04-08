@@ -41,7 +41,7 @@
       {
         "title": "Heartland",
         "start-date": "2024",
-        "description": "A unique take on wellness journaling. Built using React.js, Three.js, and Blender to render 3D components. Backend using Firebase auth and Postgres db. Best Design Award winner for Northwestern WildHacks Hackathon 2024.",
+        "description": "A website with a unique take on wellness journaling. Built using React.js, Three.js, and Blender to render 3D components. Backend using Firebase auth and Postgres db. Best Design Award winner for Northwestern WildHacks Hackathon 2024.",
         "images": [
           "images/portfolio/heartland/homescreen.png",
           "images/portfolio/heartland/add_memory.png"
@@ -102,7 +102,7 @@
           "images/portfolio/pebble/pebble1.png",
           "images/portfolio/pebble/pebble2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/ElysiaLopez/pebble-app",
         "technologies": [
           {
             "class": "devicon-python-plain",
@@ -136,7 +136,7 @@
         "images": [
           "images/portfolio/derivative-visualizer/derivative-pic.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/ElysiaLopez/DerivativeVisualization",
         "technologies": [
           {
             "class": "devicon-csharp-plain",
