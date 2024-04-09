@@ -45,9 +45,8 @@
         "images": [
           "images/portfolio/heartland/homescreen.png",
           "images/portfolio/heartland/add_memory.png"
-          
         ],
-        "url": "https://heartland-17df1.web.app/home",
+        "url": "https://github.com/miyaliu627/heartland",
         "technologies": [
           {
             "class": "devicon-react-plain",
@@ -134,9 +133,26 @@
         "start-date": "2022",
         "description": "An educational tool that visualizes a derivative relating to the limit of the slopes. Built using the C# Windows Forms framework.",
         "images": [
-          "images/portfolio/derivative-visualizer/derivative-pic.png"
+          "images/portfolio/derivative-visualizer/derivative-pic.png",
+          "images/portfolio/derivative-visualizer/derivative-demo.mp4"
         ],
         "url": "https://github.com/ElysiaLopez/DerivativeVisualization",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Barycentric Coordinate Coloring",
+        "start-date": "2023",
+        "description": "A program that gradients a triangle based on the color values at its vertices; used to practice utilizing barycentric coordinate system",
+        "images": [
+          "images/portfolio/barycentric-triangle/BarycentricTriangle.png",
+          "images/portfolio/barycentric-triangle/BarycentricTriangle2.png"
+        ],
+        "url": "https://github.com/ElysiaLopez/BaycentricCoordinateSystem",
         "technologies": [
           {
             "class": "devicon-csharp-plain",
