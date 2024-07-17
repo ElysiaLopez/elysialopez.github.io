@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Elysia Lopez, and I'm a student at Northwestern University studying Computer Science and Creative Writing. I enjoy intertwining software with storytelling, designing a project to the maximum benefit of the end user by understanding the role it plays in their story. I specialize in web development, especially using React.js (JavaScript), Django (Python), or HTML/CSS, but I have experience across the full stack, and I'm constantly learning new tools and technologies.",
+      "description": "👋 I'm Elysia Lopez, and I'm a student at Northwestern University double-majoring in Computer Science and Creative Writing. I enjoy intertwining software with storytelling, designing a project to the benefit of the end user by understanding the role it plays in their story. I'm interested in front-end design and web development, but I have experience across the full stack, and I'm constantly learning new tools and technologies.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -71,6 +71,30 @@
           {
             "class": "devicon-tailwindcss-original",
             "name": "Tailwind CSS"
+          }
+        ]
+      },
+      {
+        "title": "E & I Wedding Website",
+        "start-date": "2024",
+        "description": "An elegant, minimalistic website containing wedding event information, as well as interactive pages detailing the couple's history. Built using React.js, styled with TailwindCSS. Hosted on Vercel & utilizes Vercel Blob server for image storage.",
+        "images": [
+          "images/portfolio/wedding-site/wedding-header-image.png",
+          "images/portfolio/wedding-site/qa-page.png",
+          "images/portfolio/wedding-site/map-page.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-tailwindcss-original",
+            "name": "Tailwind CSS"
+          },
+          {
+            "class": "devicon-vercel-original",
+            "name": "Vercel"
           }
         ]
       },
@@ -199,9 +223,23 @@
     ],
     "experience": [
       {
+        "company": "Siemens Digital Industries Software",
+        "title": "Software Developer Intern",
+        "years": "6.2024 - Present",
+        "mainTech": [
+          "C++"
+        ],
+        "technologies": [
+          "C++",
+          "Unit Testing",
+          "Data Structures & Algorithms",
+          "NX CAD"
+        ]
+      },
+      {
         "company": "Northwestern IEEE Club - Web Development Team",
         "title": "Project Manager",
-        "years": "1.2024 - Present",
+        "years": "1.2024 - 5.2024",
         "mainTech": [
           "React.js"
         ],
@@ -216,7 +254,7 @@
       },
       {
         "company": "Northwestern CCL Lab",
-        "title": "Software Developer",
+        "title": "Software Developer Intern",
         "years": "7.2023 - Present",
         "mainTech": [
           "Python"

@@ -21,11 +21,11 @@ class About extends Component {
           <br/>
           <br/>
           <div className="row center mx-auto mb-">
-            <div className="col-start-8 mb-5 center">
+            <div className="col-start-7 mb-5 center">
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
                   <img
-                    height="200px"
+                    className="w-96 h-96"
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
@@ -70,11 +70,11 @@ class About extends Component {
                     {about}
                     <br/>
                     <br/>
-                    Feel free to contact me at my email: elysialopez2026@u.northwestern.edu
+                    Feel free to contact me at my email: elysialopez@u.northwestern.edu
                     <br/>
                     <br/>
                     <div >
-                      <a href="https://drive.google.com/file/d/1ElweKNX06cjoR_VIOenEw6K1E70u2gMb/view?usp=sharing" target="_blank">
+                      <a href="https://drive.google.com/file/d/13VWMZrCzAa4prRJeAR_YGyvf1N2kVOSY/view?usp=sharing" target="_blank">
                         <button className="resume-button">View resumé</button> 
                       </a>
                     </div>
