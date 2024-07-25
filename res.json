@@ -99,6 +99,30 @@
         ]
       },
       {
+        "title": "Cloud-based Reading Tracker",
+        "start-date": "2024",
+        "description": "A reading tracker application that keeps track of a user's books & personal reviews. Uses Python client. Stores data in MySQL database, communicated through AWS. Utilizes serverless lambda functions. Runs AI sentiment analysis through AWS Comprehend.",
+        "images": [
+          "images/portfolio/reading-tracker/reading_tracker_icon.png",
+          "images/portfolio/reading-tracker/sentiment_analysis.png"
+        ],
+        "url": "https://github.com/ElysiaLopez/reading-tracker",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-mysql-original",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
         "title": "PoetryMood",
         "start-date": "2023",
         "description": "A web app that generates a poem using GPT-2, & classifies the mood of poem via Multinomial Naive Bayes classifier. Created UI using React. Built for the Northwestern IEEE Club yearly showcase.",
