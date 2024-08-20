@@ -74,7 +74,7 @@ class About extends Component {
                     <br/>
                     <br/>
                     <div >
-                      <a href="https://drive.google.com/file/d/13VWMZrCzAa4prRJeAR_YGyvf1N2kVOSY/view?usp=sharing" target="_blank">
+                      <a href="https://docs.google.com/document/d/1fvoKTflF5T2TWJK_zgRNNINvPapLvO1ZIDfIjrH9gVQ/edit?usp=sharing" target="_blank">
                         <button className="resume-button">View résumé</button> 
                       </a>
                     </div>
