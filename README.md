@@ -1,1 +1,1 @@
-Portfolio site for [Elysia Lopez]([elysialopez.github.io](https://elysialopez.github.io/))
+Portfolio site for [Elysia Lopez](https://elysialopez.github.io/)
