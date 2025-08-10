@@ -48,7 +48,7 @@ class Header extends Component {
       position: "absolute",
       top: "10px",
       right: "10px",
-      fontSize: "2rem",
+      fontSize: "1.8rem",
       color: "#333"
     }}
   >
