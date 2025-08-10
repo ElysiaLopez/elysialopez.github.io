@@ -243,6 +243,28 @@
             "name": "JavaScript"
           }
         ]
+      },
+      {
+        "title": "This portfolio website",
+        "description": "I feel like this one speaks for itself",
+        "images": [
+          "images/portfolio/portfolio-site/youarehere.jpg"
+        ],
+        "url": "https://elysialopez.github.io/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-github-original",
+            "name": "GitHub Pages"
+          }
+        ]
       }
     ],
     "experience": [
