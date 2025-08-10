@@ -52,7 +52,7 @@ class Header extends Component {
       color: "#333"
     }}
   >
-    [TODO: make navigation bar]
+    // TODO: make navigation bar
   </span>
 
   <div className="row aligner" style={{ height: "100%" }}>
