@@ -247,11 +247,40 @@
     ],
     "experience": [
       {
+        "company": "Atlassian",
+        "title": "Software Engineering Intern (Loom Team)",
+        "years": "6.2025 - 8.2025",
+        "mainTech": [
+          "Full-stack"
+        ],
+        "technologies": [
+          "React",
+          "TypeScript",
+          "Apollo GraphQL",
+          "PostgreSQL",
+          "Sequelize"
+        ]
+      },
+      {
+        "company": "Northwestern CS Department",
+        "title": "Computer Science Teaching Assistant",
+        "years": "9.2023 - 6.2025",
+        "mainTech": [
+          "Leadership"
+        ],
+        "technologies": [
+          "C++",
+          "Memory management",
+          "Communication skills",
+          "the much-practiced ability to explain pointers"
+        ]
+      },
+      {
         "company": "Siemens Digital Industries Software",
         "title": "Software Developer Intern",
-        "years": "6.2024 - Present",
+        "years": "6.2024 - 9.2024",
         "mainTech": [
-          "C++"
+          "Software architecture"
         ],
         "technologies": [
           "C++",
@@ -265,7 +294,7 @@
         "title": "Project Manager",
         "years": "1.2024 - 5.2024",
         "mainTech": [
-          "React.js"
+          "Software project management"
         ],
         "technologies": [
           "React.js",
@@ -281,7 +310,7 @@
         "title": "Software Developer Intern",
         "years": "7.2023 - Present",
         "mainTech": [
-          "Python"
+          "Frontend development"
         ],
         "technologies": [
           "Python",
@@ -291,7 +320,8 @@
           "HTML",
           "CSS",
           "HTMX",
-          "Docker"
+          "Docker",
+          "centering divs"
         ]
       },
       {
@@ -299,7 +329,7 @@
         "title": "AI Engineer",
         "years": "1.2023 - 4.2023",
         "mainTech": [
-          "Python"
+          "AI Project"
         ],
         "technologies": [
           "Python",
@@ -313,26 +343,13 @@
         "title": "Programming Instructor",
         "years": "3.2021 - 9.2023",
         "mainTech": [
-          "C#"
+          "Leadership"
         ],
         "technologies": [
           "C#",
           "Education",
           "Interpersonal communication",
           "Data Structures & Algorithms"
-        ]
-      },
-      {
-        "company": "World Robot Olympiad",
-        "title": "Team Leader",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "C++"
-        ],
-        "technologies": [
-          "C++",
-          "Team management",
-          "Interpersonal skills"
         ]
       }
     ]

@@ -19,44 +19,59 @@
     "skills": {
       "icons": [
         {
-          "name": "C++",
+          "name": "c++",
           "class": "devicon-cplusplus-plain",
           "level": "65"
         },
         {
-          "name": "C#",
+          "name": "c#",
           "class": "devicon-csharp-plain",
           "level": "65"
         },
         {
-          "name": "Python",
+          "name": "python",
           "class": "devicon-python-plain",
           "level": "60"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
+          "name": "java",
+          "class": "devicon-java-plain",
           "level": "70"
         },
         {
-          "name": "React",
+          "name": "typescript",
+          "class": "devicon-typescript-plain",
+          "level": "70"
+        },
+        {
+          "name": "react",
           "class": "devicon-react-original",
           "level": "70"
         },
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "SQL",
-          "class": "devicon-microsoftsqlserver-plain",
+          "name": "postgresql",
+          "class": "devicon-postgresql-plain",
           "level": "60"
+        },
+        {
+          "name": "graphql",
+          "class": "devicon-graphql-plain",
+          "level": "60"
+        },
+        {
+          "name": "docker",
+          "class": "devicon-docker-plain",
+          "level": "50"
+        },
+        {
+          "name": "aws",
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "level": "50"
+        },
+        {
+          "name": "git",
+          "class": "devicon-git-plain",
+          "level": "70"
         }
       ]
     }
