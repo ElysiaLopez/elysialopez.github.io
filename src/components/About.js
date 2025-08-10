@@ -77,7 +77,7 @@ class About extends Component {
                       <li> I will buy anything that comes in the color sage green and/or features a cute cat </li>
                     </ul>
                     <br/>
-                    If you want to talk coding, books, or cats, (or new grad opportunities 🙏) feel free to contact me at my email: elysialopez@u.northwestern.edu 
+                    If you want to talk coding, books, or cats, (or new grad opportunities 🙏) feel free to contact me at my email: elysialopez2026@u.northwestern.edu 
                     <br/>
                     <br/>
                     <div >
